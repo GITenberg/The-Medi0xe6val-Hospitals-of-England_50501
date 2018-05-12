@@ -1,4 +1,5 @@
 _repo: The-Medi0xe6val-Hospitals-of-England_50501
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Bristol, G. F.
@@ -9,12 +10,17 @@ contributor:
       agent_name: Cox, J. Charles
       gutenberg_agent_id: '45942'
       url: http://www.gutenberg.org/2009/agents/45942
+covers:
+- cover_type: archival
+  image_path: 50501-h/images/cover.jpg
 creator:
   author:
     agent_name: Clay, Rotha Mary
     gutenberg_agent_id: '45940'
     url: http://www.gutenberg.org/2009/agents/45940
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50501#The-Medi0xe6val-Hospitals-of-England
 gutenberg_issued: '2015-11-19'
 gutenberg_type: Text
 identifiers:
